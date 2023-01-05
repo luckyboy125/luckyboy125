@@ -55,6 +55,5 @@ I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm 
  
 ![luckyboy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyboy125&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyboy125&langs_count=6&hide=TeXt,blade&hide_border=true&layout=compact&theme=radical)
-<img src="https://activity-graph.herokuapp.com/graph?username=luckyboy125&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
 </p>
 ---
