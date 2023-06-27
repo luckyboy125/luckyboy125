@@ -7,9 +7,9 @@ I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm 
 ## Let's Connect
 
 <div>
-<a href="https://www.linkedin.com/in/jay-li-578772270/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/jay-li-578772270/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="luckyboy linkedin" style="margin-bottom: 5px;" />
-</a>
+</a> -->
  <a href="https://github.com/luckyboy125" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt="luckyboy GitHub" style="margin-bottom: 5px;" />
 </a>
@@ -18,7 +18,7 @@ I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm 
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt="luckyboy twitter" style="margin-bottom: 5px;" />
 </a> -->
 
-<a href="mailto:jayli1254u@gmail.com" target="_blank">
+<a href="mailto:jayli1252u@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="luckyboy gmail" style="margin-bottom: 5px;" />
 </a>
   
