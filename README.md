@@ -1,4 +1,4 @@
-# Hello there, I'm [Cool-Dev](https://jayli-portfolio.netlify.app)👋
+# Hello there, I'm [Cool-Dev](https://#)👋
 
 <!-- <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/> -->
 
@@ -18,7 +18,7 @@ I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm 
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt="luckyboy twitter" style="margin-bottom: 5px;" />
 </a> -->
 
-<a href="mailto:jayli1252u@gmail.com" target="_blank">
+<a href="mailto:luckyboy.ws125@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="luckyboy gmail" style="margin-bottom: 5px;" />
 </a>
   
