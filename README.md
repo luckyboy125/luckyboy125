@@ -27,11 +27,4 @@ I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm 
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Boostrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
-
- <h2 align="center"> Github Statistics</h2>
- 
- <p align="center">
- 
-![luckyboy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckyboy125&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyboy125&langs_count=6&hide=TeXt,blade&hide_border=true&layout=compact&theme=radical)
 </p>
